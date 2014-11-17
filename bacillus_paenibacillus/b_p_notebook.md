@@ -5,6 +5,7 @@ Source: ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_BACTERIA/
 Paenibacillus spp. reported
 
 Paenibacillus_alginolyticus
+
 Paenibacillus_alvei
 Paenibacillus_assamensis
 Paenibacillus_barengoltzii
