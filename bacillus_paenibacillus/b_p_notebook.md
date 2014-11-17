@@ -2,7 +2,7 @@ Bacillus and Paenibacillus agenda
 
 Datasets:ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_BACTERIA/
 
-Ref: Paenibacillus spp. got 54 genome references reported.
+Ref: Paenibacillus spp. got 54 genome sequence references reported.
 ###########################
 Paenibacillus_alginolyticus
 
