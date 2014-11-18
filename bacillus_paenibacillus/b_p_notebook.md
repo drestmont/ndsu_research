@@ -112,5 +112,22 @@ Paenibacillus_vortex
 
 Paenibacillus_zanthoxyli
 ########################
+ftp://ftp.ncbi.nlm.nih.gov/genomes/ASSEMBLY_REPORTS/Bacteria/Paenibacillus_larvae/
+
+differente samples of Paenibacillus larvae (7 in total) and multiple assemblies reported in NCBI, there are three folders reporting the datasets, statistics and different assembly versions.
+
+GCA_000153605
+
+GCA_000187665
+
+GCA_000511115
+
+GCA_000511405
+
+GCF_000153605
+
+GCF_000187665
+
+GCF_000511405
 
 
