@@ -1,1 +1,0 @@
-Francisella tularensis notebook
