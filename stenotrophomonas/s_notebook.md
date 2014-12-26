@@ -1,1 +1,0 @@
-Stenotrophomonas maltophilia notebook
